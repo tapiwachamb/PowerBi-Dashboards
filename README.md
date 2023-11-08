@@ -81,10 +81,5 @@ This project analyzes retail data to identify trends and patterns in customer be
 
 This project analyzes school data to identify trends and patterns in student performance. The project includes a variety of visualizations, such as line charts, bar charts, and scatter plots, that can be used to track student progress over time, compare student performance across different schools, and identify students who may need additional support.
 
-# Titanic Survival Analysis
-
-![APP](https://github.com/tapiwachamb/PowerBi-Dashboards/blob/main/Titanic%20Survival%20Analysis/Titanic%20Survival%20Dataset.png)
-
-This project analyzes Titanic survival data to identify factors that contributed to survival. The project includes a variety of visualizations, such as bar charts, pie charts, and decision trees, that can be used to identify relationships between different variables and survival.
 
 
