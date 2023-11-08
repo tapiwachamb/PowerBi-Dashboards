@@ -63,12 +63,6 @@ This project analyzes budget sales data to identify trends and patterns. The pro
 
 This project analyzes heart disease data to identify risk factors and predictors of heart disease. The project includes a variety of visualizations, such as scatter plots, heatmaps, and forest plots, that can be used to identify relationships between different variables and heart disease.
 
-# Pokémon Analysis
-
-![APP](https://github.com/tapiwachamb/PowerBi-Dashboards/blob/main/Pokemon%20Analysis/Pokemon%20Analysis.png)
-
-This project analyzes Pokémon data to identify the most popular Pokémon, the strongest Pokémon, and the Pokémon with the most unique abilities. The project includes a variety of visualizations, such as bar charts, pie charts, and treemaps, that can be used to compare and contrast different Pokémon.
-
 # Retail Analysis
 
 ![APP](https://github.com/tapiwachamb/PowerBi-Dashboards/blob/main/Retail%20Analysis/Retail%20Analysis.png)
@@ -80,6 +74,13 @@ This project analyzes retail data to identify trends and patterns in customer be
 ![APP](https://github.com/tapiwachamb/PowerBi-Dashboards/blob/main/School%20Data%20Analysis/School%20Data%20Analysis.png)
 
 This project analyzes school data to identify trends and patterns in student performance. The project includes a variety of visualizations, such as line charts, bar charts, and scatter plots, that can be used to track student progress over time, compare student performance across different schools, and identify students who may need additional support.
+
+# Pokémon Analysis
+
+![APP](https://github.com/tapiwachamb/PowerBi-Dashboards/blob/main/Pokemon%20Analysis/Pokemon%20Analysis.png)
+
+This project analyzes Pokémon data to identify the most popular Pokémon, the strongest Pokémon, and the Pokémon with the most unique abilities. The project includes a variety of visualizations, such as bar charts, pie charts, and treemaps, that can be used to compare and contrast different Pokémon.
+
 
 
 
