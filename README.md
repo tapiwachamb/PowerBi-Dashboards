@@ -109,7 +109,8 @@ The Predictive Retail Analysis App, powered by cutting-edge artificial intellige
 
 This project analyzes school data to identify trends and patterns in student performance. The project includes a variety of visualizations, such as line charts, bar charts, and scatter plots, that can be used to track student progress over time, compare student performance across different schools, and identify students who may need additional support.
 
-## Solution: Data-driven analysis of school data, utilizing tools and techniques like machine learning and artificial intelligence, can provide educators with comprehensive insights into student progress, identify patterns and trends, and inform targeted interventions.
+## Solution:
+Data-driven analysis of school data, utilizing tools and techniques like machine learning and artificial intelligence, can provide educators with comprehensive insights into student progress, identify patterns and trends, and inform targeted interventions.
 
 ## Results:
 
