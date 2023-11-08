@@ -33,7 +33,7 @@ This repository contains a collection of Power BI projects, including:
 * **Pokémon Analysis**
 * **Retail Analysis**
 * **School Data Analysis**
-* **Titanic Survival Analysis**
+
 
 These projects can be used to learn about Power BI and how to use it to create data visualizations and reports. They also provide examples of how to analyze different types of data, including financial data, healthcare data, gaming data, retail data, education data, and historical data.
 
